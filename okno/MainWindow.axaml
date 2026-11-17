@@ -8,5 +8,6 @@
         Width="500"
         Height="300"
         WindowStartupLocation="CenterScreen">
-    <TextBlock Text="Witaj w mojej aplikacji!" />
+    <TextBlock Text="Witaj w mojej aplikacji!"
+               FontSize="32" />
 </Window>
