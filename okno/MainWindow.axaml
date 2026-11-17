@@ -10,5 +10,6 @@
         WindowStartupLocation="CenterScreen">
     <TextBlock Text="Witaj w mojej aplikacji!"
                FontSize="32"
-               FontWeight="Bold" />
+               FontWeight="Bold"
+               FontStyle="Italic" />
 </Window>
